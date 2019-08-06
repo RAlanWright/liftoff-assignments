@@ -6,13 +6,41 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+![Image of Levi](https://cdn.hiptoro.com/wp-content/uploads/2019/02/Attack-on-Titan-Season-3-Part-2-Release-Date-CONFIRMED-streaming-schedule-also-Revealed-800x400.jpg)
+
 ### Overview
-Include overview here
+My application will allow fans from all over the world the opportunity to test their true fandom for the hit anime, "Attack on Titan." Difficult and challenging questions await those ready to give their hearts for humanity. This app will allow players to check leaderboards. The user can also do a time trail against the cloack to track their best score.
+
 ### Features
-Include Features here
+
+User Login; allows users to log in
+
+user signup: allows users to creat an account
+
+logout: users can logout of the account
+
+categories: users can cycle through which topic to answer questions about
+
 ### Technologies
-Include Technologies here
+
+Java
+
+html
+
+css
+
+springboot
+
+thymeleaf
+
+trivia api
+ 
+MySql
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+how to implement a trivia api
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/3wXwwWNW/liftstone
