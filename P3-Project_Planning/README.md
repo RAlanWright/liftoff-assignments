@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Image of Wireframes] (https://github.com/Marco-Senpai/liftoff-assignments/tree/master/P3-Project_Planning/images)
+![Image of Wireframes] (https://github.com/Marco-Senpai/liftoff-assignments/tree/master/P3-Project_Planning/images/wireframe.png)
 
 
 
